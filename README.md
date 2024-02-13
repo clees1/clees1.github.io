@@ -1,2 +1,2 @@
-# clees1.github.io
-Portfolio
+# Clees Portfolio
+This is my portfolio. 
