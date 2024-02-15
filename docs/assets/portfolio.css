@@ -45,6 +45,11 @@ body {
     font-size: 1.5rem;
   }
   
+  p {
+    font-family: 'Open Sans', serif;
+    color: #000000;
+  }
+
   .list-social-icons a {
     color: #035ab0;
   }
